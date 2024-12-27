@@ -35,7 +35,7 @@ class ScreenWidget extends StatelessWidget {
             SizedBox(
               height: 50,
             ),
-            Text("The two images are displayed",style: TextStyle(fontFamily: 'Suwannaphum',fontSize: 25,color: Colors.blue),)
+            Text("The two images are displayed",style: TextStyle(fontFamily: 'Suwannaphum',fontSize: 25,color: Colors.blue,fontWeight: FontWeight.bold),)
           ],
         ),
       ),
